@@ -38,5 +38,5 @@ if (usuario == Usuarios.Correo){
 }
 
 function load_pagina(){
-    document.getElementById("content").innerHTML='<object type="type/html" data="pagina1.html" ></object>';
+    document.getElementById("content").innerHTML='<object type="type/html" data="Inicio.html" ></object>';
 }

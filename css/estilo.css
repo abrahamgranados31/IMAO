@@ -5,10 +5,10 @@
     font-family: 'Open Sans';
 }
 header{
-    background: url(https://imao.com.mx/wp-content/uploads/2021/05/cropped-50565897_2243843939165446_8557002393387008000_n-200x108.png);
+    
     background-size: cover;
     background-position:center;
-    height: 500px;
+    height: 200px;
     width: 1000px;
 }
 header h1{
@@ -198,6 +198,9 @@ body{
     background-color: antiquewhite;
 }
 
+img{
+    width: 30%;
+}
 /* SECCION RESPONSIVE */
 @media screen and (max-width: 850px) {
     .contenedor {

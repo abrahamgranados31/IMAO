@@ -10,7 +10,7 @@ background-image: url('/images/login.jpg');
 .formulario
 {
     position: absolute;
-    top: 50%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 400px;
@@ -143,4 +143,9 @@ text-decoration: none;
 {
     margin-left: auto;
     margin-right: auto;
+}
+img {
+    width: 25%;
+    margin-left: 38%;
+    margin-top: 3%;
 }
