@@ -1,7 +1,7 @@
 nav
 {
     
-    background-color: white;
+    background-color:antiquewhite;
     width: auto;
     height: 130px;
 }
@@ -13,7 +13,7 @@ nav
     margin-right: 20px;
 }
 #contenedor {
-    background-color:white; 
+
     position: absolute;
     top: 65px;
     left: 250px;
@@ -33,21 +33,70 @@ a {
     text-decoration: none;
     color: red;
 }
-#uno , #dos , #tres {
+#uno , #dos  {
    
     display: inline-flex;
+    border-style: inset;
+    margin-left: 5%;
+   margin-top: 5%;
+    
 }
 
 #uno {
-    background-color: bisque;
-    color: antiquewhite;
+    background-color: rgb(196, 255, 209);
+
 }
 
 #dos {
     background-color: rgb(196, 255, 199);
-    color: rgb(172, 7, 35);
+    
 }
-#tres {
-    background-color: rgb(168, 82, 147);
-    color: rgb(31, 30, 29);
+
+
+#tres, #cuatro {
+    display: inline-flex;
+    border-style: inset;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+
+
+#cinco , #seis {
+   
+    display: inline-flex;
+    border-style: inset;
+    margin-left: 5%;
+    margin-top: 5%;
+    
+  
+    
+}
+
+
+#siete , #ocho , #nueve {
+   
+    display: inline-flex;
+    border-style: inset;
+    margin-left: 5%;
+    margin-top: 5%;
+    
+}
+
+.card-text
+{
+    color: blueviolet;
+}
+
+
+#imagen2 {
+    margin-left: 10%;
+}
+#imagen1 {
+    margin-left: 30%;
+}
+
+#linea {
+    font-size: 10px;
+   
 }
