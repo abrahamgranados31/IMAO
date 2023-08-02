@@ -12,8 +12,8 @@ nav
     width: 170px;
     margin-right: 20px;
 }
-div {
-    
+#contenedor {
+
     position: absolute;
     top: 65px;
     left: 250px;
@@ -32,4 +32,71 @@ li {
 a {
     text-decoration: none;
     color: red;
+}
+#uno , #dos  {
+   
+    display: inline-flex;
+    border-style: inset;
+    margin-left: 5%;
+   margin-top: 5%;
+   border-color: cornsilk;
+  
+}
+
+#uno {
+    background-color: rgb(196, 255, 209);
+    width: 40%;
+    height: 70%;
+
+}
+
+#dos {
+    background-color: rgb(196, 255, 199);
+    width: 40%;
+    height: 70%;
+}
+
+
+#tres, #cuatro {
+    display: inline-flex;
+    border-style: inset;
+    margin-left: 5%;
+    margin-top: 5%;
+
+}
+
+
+
+#cinco , #seis {
+   
+    display: inline-flex;
+    border-style: inset;
+    margin-left: 5%;
+    margin-top: 5%;
+    
+  
+    
+}
+
+
+
+
+.card-text
+{
+    color: rgb(223, 57, 27);
+}
+
+
+#imagen2 {
+    margin-left: 10%;
+}
+#imagen1 {
+    margin-left: 25%;
+    height: 60%;
+}
+
+#linea {
+    font-size: 16px;
+    
+   
 }

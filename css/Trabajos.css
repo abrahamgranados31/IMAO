@@ -39,17 +39,21 @@ a {
     border-style: inset;
     margin-left: 5%;
    margin-top: 5%;
-    
+   border-color: cornsilk;
+  
 }
 
 #uno {
     background-color: rgb(196, 255, 209);
+    width: 40%;
+    height: 70%;
 
 }
 
 #dos {
     background-color: rgb(196, 255, 199);
-    
+    width: 40%;
+    height: 70%;
 }
 
 
@@ -58,6 +62,7 @@ a {
     border-style: inset;
     margin-left: 5%;
     margin-top: 5%;
+
 }
 
 
@@ -74,18 +79,11 @@ a {
 }
 
 
-#siete , #ocho , #nueve {
-   
-    display: inline-flex;
-    border-style: inset;
-    margin-left: 5%;
-    margin-top: 5%;
-    
-}
+
 
 .card-text
 {
-    color: blueviolet;
+    color: rgb(223, 57, 27);
 }
 
 
@@ -93,10 +91,12 @@ a {
     margin-left: 10%;
 }
 #imagen1 {
-    margin-left: 30%;
+    margin-left: 25%;
+    height: 60%;
 }
 
 #linea {
-    font-size: 10px;
+    font-size: 16px;
+    
    
 }

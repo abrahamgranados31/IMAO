@@ -4,6 +4,41 @@
     padding:0;
     font-family: 'Open Sans';
 }
+nav
+{
+    
+    background-color:antiquewhite;
+    width: auto;
+    height: 140px;
+}
+.Imao
+{
+    margin-top: 15px;
+    margin-left: 50px;
+    width: 250px;
+    margin-right: 50px;
+}
+#contenedor {
+   
+    position: absolute;
+    top: 65px;
+    left: 330px;
+    width:400px;
+    font-family:Arial, Helvetica, sans-serif;
+    list-style:none;
+    display: inline-flex;
+}
+
+li {
+    
+    font-size: 17px;
+   
+    
+}
+a {
+    text-decoration: none;
+    color: red;
+}
 header{
     
     background-size: cover;
