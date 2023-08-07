@@ -43,18 +43,13 @@ a {
   
 }
 
-#uno {
+#uno, #dos, #tres, #cuatro, #cinco, #seis {
     background-color: rgb(196, 255, 209);
     width: 40%;
     height: 70%;
 
 }
 
-#dos {
-    background-color: rgb(196, 255, 199);
-    width: 40%;
-    height: 70%;
-}
 
 
 #tres, #cuatro {
@@ -89,14 +84,58 @@ a {
 
 #imagen2 {
     margin-left: 10%;
+    height: 30%;
+    width: 40%;
+    border: 1px solid #e70f0f;
+    border-radius: 4px;
+    padding: 5px;
 }
 #imagen1 {
     margin-left: 25%;
     height: 60%;
+    width: 45%;
+    border: 1px solid #e70f0f;
+    border-radius: 4px;
+    padding: 5px;
 }
 
 #linea {
     font-size: 16px;
     
    
+}
+#imagen3 {
+    margin-left: 10%;
+    height: 30%;
+    width: 35%;
+    border: 1px solid #e70f0f;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+#imagen4 {
+    margin-left: 10%;
+    height: 30%;
+    width: 56%;
+    border: 1px solid #e70f0f;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+#imagen5 {
+    margin-left: 10%;
+    height: 30%;
+    width: 48%;
+    border: 1px solid #e70f0f;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+#imagen6 {
+    margin-left: 10%;
+    height: 30%;
+    width: 38%;
+    border: 1px solid #e70f0f;
+    border-radius: 4px;
+    padding: 5px;
 }
